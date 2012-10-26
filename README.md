@@ -7,7 +7,6 @@ Created by Harrison Grieve
 
 Will add
 
-----
 
 ### Changelog ###
 --
